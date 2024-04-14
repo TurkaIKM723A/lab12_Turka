@@ -17,7 +17,7 @@ bool isPerfect(int number) {
 
     return sum == number;
 
-}
+} 
 
 int main() {
 
